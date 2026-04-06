@@ -11,3 +11,6 @@ This repository was created for Assignment 6 in CP-367 A (Winter 2026).
 - Markdown README creation
 - Branching workflow
 - GitHub push, Pages, fork, and pull request steps
+
+## Branch update
+This line was added in the update-readme branch.
